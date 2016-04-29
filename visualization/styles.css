@@ -1,0 +1,191 @@
+body {
+  font-family: "Helvetica";
+}
+
+#h11 {
+  padding-bottom:30px;
+  font-size: 40px;
+}
+
+h3 {
+  padding-left: 15px;
+  color: black;
+}
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.but {
+    text-align: center;
+    display: inline-block;
+    background-color: #555555; 
+    color: white;
+    padding: 14px 25px;
+    font-size: 16px;
+}
+
+.drop {
+  padding: 14px 25px;
+  font-size: 16px;
+  text-align: center;
+  display: inline-block;
+  background-color: #555555; 
+  color: white;
+}
+
+
+#glossary h3 {
+ text-align:center;
+ font-family: "Cambria"; 
+}
+
+#glossary h2 {
+  font-family: "Cambria"; 
+  text-align: center;
+}
+
+#glossary p {
+  color: gray;
+  font-family: "Helvetica";
+}
+
+#controlbox h2 {
+  font-family: "Cambria";
+  text-align: center;
+}
+
+p {
+  font-family: "Sans-Serif";
+  font-size: 20px;
+  margin: 5px 150px;
+  text-align: "left";
+}
+
+
+
+#header {
+  font-family: "Cambria";
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+#header p {
+  font-family: "Helvetica";
+  color: gray;
+  text-align: left;
+  width: 80%;
+}
+
+/*#intro {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+/*#controlbox {
+  font-family: "Helvetica";
+  width: 90%;
+  padding: 30px;
+}*/
+
+#controlbox {
+  font-family: "Helvetica";
+  color: gray;
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+#controlbox table{
+  font-family: "Helvetica";
+  margin-left: auto;
+  margin-right: auto;
+  border: solid black 1px;
+  border-collapse: collapse;
+}
+
+#controlbox table tr td {
+  font-family: "Helvetica";
+  border-left: 1px solid #000;
+  padding: 10px 15px;
+  float: left;
+/*  width: 20%;
+*/}
+
+
+#controlbox table td:first-child {
+  border-left: none;
+}
+
+#spheres {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#treeLegend {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#viz0 {
+  font-family: "Helvetica";
+}
+
+#viz1 {
+  font-family: "Helvetica";
+}
+
+#viz2 {
+  font-family: "Helvetica";
+}
+
+#pad {
+  padding: 20px 30px;
+}
+
+#eq {
+  width:80px;
+}
+
+#treeTD {
+  width: 60px;
+  padding: 0px;
+}
+
+#car {
+  display: inline;
+  width: 60px;
+  padding: 5px;
+  margin: 0;
+}
+
+#equi {
+  margin: 20px auto;
+
+}
+
+#legend {
+  margin: 20px;
+}
+
+
+#threeD {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#trees {
+  width:650px;
+  padding: 10px;
+}
+
+#tree {
+  width:40px;
+  padding:0;
+}
