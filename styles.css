@@ -1,0 +1,21 @@
+body {
+  background-color: #eef2ee;
+  font-family: sans-serif;
+  font-size: 20
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.about {
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+}
